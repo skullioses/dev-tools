@@ -2,9 +2,9 @@
   "default": true,
   "colors": true,
   "line-length": false,
-  "ul-style": {"style": "sublist"},
-  "no-duplicate-header": false,
-  "no-inline-html": false,
-  "no-hard-tabs": false,
-  "whitespace": false
+  "ul-style": {"style": "original",
+  "no-duplicate-header": true,
+  "no-inline-html": true,
+  "no-hard-tabs": true,
+  "no-whitespace": true,
 }
